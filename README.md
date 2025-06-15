@@ -29,7 +29,7 @@ A RESTful Flask API for managing superheroes and their powers. Built with SQLAlc
 ### 1. Clone the repo
 
 bash
- 1.git clone https://github.com/your-username/superheroes-api.git
+ 1.git clone https://github.com/ManuG-Lab/superheroes-api.git
    cd superheroes-api
 
  2. Create and activate a virtual environment
